@@ -1,0 +1,365 @@
+[
+  {
+    "id": "doc_0000",
+    "customer_name": "Prefeitura Municipal de Curralinhos-PI",
+    "tender_number": "002/2013",
+    "category": "Combustíveis e Lubrificantes",
+    "deadline": "13/05/2013 11:30",
+    "requirements": [
+      "Prova de situação regular perante o FGTS",
+      "Certidão Negativa de Débito (CND) expedida pelo INSS",
+      "Contrato social e último aditivo",
+      "Prova de regularidade para com a Fazenda Federal",
+      "Prova de regularidade para com a Fazenda Estadual",
+      "Prova de regularidade para com a Fazenda Municipal",
+      "Cópia atualizada do CNPJ",
+      "Certidão de Registro e Quitação da firma na entidade profissional competente",
+      "Capital Social não inferior a 10% do valor global do objeto licitado",
+      "Declaração de concordância com a Lei 8.666/93 e o edital",
+      "Declaração de inexistência de processo de inidoneidade",
+      "Declaração de veracidade dos documentos de habilitação",
+      "Declaração de entrega dos gêneros alimentícios conforme o edital",
+      "Procuração e credenciais dos representantes legais",
+      "Documento de identidade do representante legal"
+    ],
+    "participation_conditions": [
+      "Empresas cadastradas previamente, com toda a documentação exigida válida na data da abertura",
+      "Documentos para habilitação e proposta devem ser apresentados em envelopes distintos"
+    ]
+  },
+  {
+    "id": "doc_0001",
+    "customer_name": "Prefeitura Municipal de Joinville",
+    "tender_number": null,
+    "category": "Serviço de reparo de calhas",
+    "deadline": null,
+    "requirements": [
+      "Certidão Negativa de Débitos relativos aos Tributos Federais e à Dívida Ativa da União",
+      "Certidão Negativa de Débitos Estaduais",
+      "Certidão Negativa de Débitos Municipais",
+      "Certificado de Regularidade do FGTS",
+      "Certidão Negativa de Débitos Trabalhistas (Lei nº 12.440/2011)",
+      "Declaração de cumprimento do inciso XXXIII do art. 7º da Constituição Federal",
+      "Certidão Negativa de Falência, Concordata, Recuperação Judicial e Extrajudicial",
+      "Balanço Patrimonial e demonstrações contábeis do último exercício social",
+      "Índices de Liquidez Geral, Solvência Geral e Liquidez Corrente superiores a 1",
+      "Certidão de Acervo Técnico emitida pelo CREA",
+      "Atestado de capacidade técnica registrado no CREA",
+      "Certidão de registro de Pessoa Jurídica expedida pelo CREA",
+      "Comprovação de vínculo do responsável técnico (CTPS ou contrato)",
+      "Certificado de Registro Cadastral (CRC) do Município de Joinville"
+    ],
+    "participation_conditions": [
+      "Participação via sistema eletrônico com senha pessoal e intransferível",
+      "Ramo de atividade compatível com o objeto da licitação",
+      "Credenciamento regular no SICAF",
+      "Responsabilidade do proponente por acompanhar as operações no sistema",
+      "Suspensão da sessão em caso de desconexão superior a 10 minutos"
+    ]
+  },
+  {
+    "id": "doc_0002",
+    "customer_name": null,
+    "tender_number": null,
+    "category": null,
+    "deadline": null,
+    "requirements": [],
+    "participation_conditions": []
+  },
+    {
+    "id": "doc_0003",
+    "customer_name": "Prefeitura Municipal de Barreiras do Piauí-PI",
+    "tender_number": null,
+    "category": "Combustíveis e derivados de petróleo",
+    "deadline": null,
+    "requirements": [
+      "Declaração de pleno atendimento aos requisitos de habilitação",
+      "Declaração de não emprego de menores em trabalho noturno, perigoso ou insalubre",
+      "Inscrição no Registro Público de Empresas Mercantis",
+      "Certificado da Condição de Microempreendedor Individual (CCMEI), se aplicável",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Inscrição no Registro Público de Empresas Mercantis da filial",
+      "Ata de fundação e estatuto social para cooperativas",
+      "Declaração de Aptidão ao Pronaf (DAP), para agricultor familiar",
+      "Matrícula no Cadastro Específico do INSS (CEI), para produtor rural",
+      "Decreto de autorização, para empresas estrangeiras",
+      "Ato de registro ou autorização para funcionamento, para atividades com legislação específica"
+    ],
+    "participation_conditions": [
+      "Empresas estabelecidas no País com atividade compatível com o objeto",
+      "Credenciamento prévio no SICAF e no sistema Comprasnet",
+      "Tratamento favorecido para microempresas, empresas de pequeno porte e cooperativas"
+    ]
+  },
+  {
+    "id": "doc_0004",
+    "customer_name": "Prefeitura Municipal de São João da Canabrava-PI",
+    "tender_number": null,
+    "category": "Materiais de construção",
+    "deadline": null,
+    "requirements": [
+      "Registro comercial, para empresa individual",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Ato constitutivo registrado no Cartório de Registro Civil de Pessoas Jurídicas, para sociedades civis",
+      "Prova de inscrição no CNPJ",
+      "Certidão Negativa de Débito junto ao INSS",
+      "Certificado de Regularidade do FGTS (CRF)",
+      "Certidão Negativa Tributária Municipal",
+      "Certidão Negativa de Dívida Ativa Municipal",
+      "Certidão Negativa Tributária Estadual",
+      "Certidão Negativa de Dívida Ativa Estadual",
+      "Certidão Conjunta de Débitos Federais e Dívida Ativa da União",
+      "Alvará de funcionamento municipal",
+      "Declaração de cumprimento dos requisitos de habilitação",
+      "Declaração de inexistência de impedimento legal",
+      "Declaração de não emprego de menores"
+    ],
+    "participation_conditions": [
+      "Empresas regularmente estabelecidas no País, especializadas no objeto",
+      "Não é admitida a participação de empresas em consórcio",
+      "Não podem participar empresas cujos sócios sejam servidores da Administração contratante",
+      "Não podem participar empresas sob falência, concordata ou declaradas inidôneas"
+    ]
+  },
+  {
+    "id": "doc_0005",
+    "customer_name": "31º Batalhão de Infantaria Motorizado",
+    "tender_number": null,
+    "category": "Combustíveis para viaturas",
+    "deadline": null,
+    "requirements": [
+      "Inscrição no Registro Público de Empresas Mercantis, para empresário individual",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Certidão de microempresa ou empresa de pequeno porte",
+      "Decreto de autorização, para empresas estrangeiras",
+      "Registro na Agência Nacional de Petróleo (ANP)",
+      "Comprovante de Registro no Cadastro Técnico Federal (IBAMA)",
+      "Prova de inscrição no CNPJ",
+      "Certidão Conjunta Negativa de Débitos Federais e Dívida Ativa da União",
+      "Prova de regularidade com a Seguridade Social (INSS)",
+      "Prova de regularidade com o FGTS",
+      "Certidão Negativa de Débitos Trabalhistas",
+      "Prova de inscrição no cadastro de contribuintes estadual",
+      "Prova de regularidade com a Fazenda Estadual"
+    ],
+    "participation_conditions": [
+      "Participação via sistema eletrônico com senha pessoal e intransferível",
+      "Ramo de atividade compatível com o objeto",
+      "Credenciamento no SICAF"
+    ]
+  },
+    {
+    "id": "doc_0006",
+    "customer_name": null,
+    "tender_number": null,
+    "category": null,
+    "deadline": null,
+    "requirements": [
+      "Inscrição no Registro Público de Empresas Mercantis, para empresário individual",
+      "Certificado da Condição de Microempreendedor Individual (CCMEI)",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Inscrição no Registro Público de Empresas Mercantis, para filial",
+      "Inscrição do ato constitutivo no Registro Civil, para sociedade simples",
+      "Ata de fundação e estatuto social, para cooperativa",
+      "Decreto de autorização, para empresa estrangeira",
+      "Prova de inscrição no CNPJ ou CPF",
+      "Certidão Conjunta Negativa de Débitos Federais e Dívida Ativa da União",
+      "Prova de regularidade com o FGTS",
+      "Certidão Negativa de Débitos Trabalhistas",
+      "Prova de inscrição no cadastro de contribuintes estadual",
+      "Prova de regularidade com a Fazenda Estadual",
+      "Certidão negativa de falência",
+      "Balanço patrimonial e demonstrações contábeis do último exercício social",
+      "Índices de Liquidez Geral, Solvência Geral e Liquidez Corrente superiores a 1",
+      "Comprovação de aptidão para fornecimento por meio de atestados"
+    ],
+    "participation_conditions": []
+  },
+  {
+    "id": "doc_0007",
+    "customer_name": "Secretaria da Infra-Estrutura do Estado do Piauí (SEINFRA)",
+    "tender_number": "29/2008",
+    "category": "Estudo geofísico de aeroporto",
+    "deadline": "28/05/2008 09:00",
+    "requirements": [
+      "Ato constitutivo, estatuto social em vigor devidamente registrado",
+      "Registro ou inscrição na entidade profissional competente",
+      "Certidão Negativa de Débitos (CND) expedida pelo INSS",
+      "Certidão de Quitação com o FGTS",
+      "Certidão de Quitação com as Fazendas Federal, Estadual e Municipal",
+      "Certidão Negativa de falência, recuperação judicial ou extrajudicial",
+      "Declaração de não emprego de menores de 18 anos em trabalho noturno, perigoso ou insalubre"
+    ],
+    "participation_conditions": [
+      "Interessados do ramo pertinente ao objeto, cadastrados no CADUF/PI",
+      "Manifestação de interesse com antecedência de até 24 horas da apresentação das propostas",
+      "Não são admitidos empresários e empresas sob falência, recuperação judicial ou extrajudicial, dissolução ou liquidação",
+      "Não é admitida a participação de empresas em consórcio",
+      "Não podem participar empresas cujos diretores ou sócios sejam servidores do órgão contratante"
+    ]
+  },
+  {
+    "id": "doc_0009",
+    "customer_name": null,
+    "tender_number": null,
+    "category": "Aquisição e instalação de ares-condicionados",
+    "deadline": null,
+    "requirements": [],
+    "participation_conditions": []
+  },
+    {
+    "id": "doc_0010",
+    "customer_name": "4ª Cia G (51º Centro de Telemática)",
+    "tender_number": null,
+    "category": "Reforma das instalações elétricas",
+    "deadline": null,
+    "requirements": [
+      "Cédula de Identidade e CPF dos Diretores/Sócios",
+      "Contrato Social e alterações registradas na Junta Comercial",
+      "Inscrição no CNPJ atualizada",
+      "Certidão Negativa de Débitos conjunta (Receita Federal e Dívida Ativa da União)",
+      "Certidão Negativa do FGTS",
+      "Certidão Negativa do INSS",
+      "Certidão Negativa da Receita Estadual",
+      "Certidão Negativa da Receita Municipal",
+      "Balanço Patrimonial do último exercício",
+      "Certidão negativa de falência e concordata",
+      "Declaração de não emprego de menores de 18 anos em trabalho insalubre e menores de 16 anos",
+      "Declaração de fatos futuros impeditivos de habilitação",
+      "Atestado de capacidade técnica",
+      "Ata de Fundação e Estatuto Social, para cooperativas",
+      "Ata da sessão que autorizou a cooperativa a contratar o objeto",
+      "Prova do registro previsto no art. 107 da Lei nº 5.754/1971"
+    ],
+    "participation_conditions": [
+      "Credenciamento prévio no Sistema Eletrônico (Comprasnet)",
+      "Chave de identificação e senha pessoal",
+      "Não é permitida a participação de consórcios",
+      "Não é permitida empresa estrangeira sem autorização",
+      "Não podem participar empresas suspensas, impedidas, em falência ou declaradas inidôneas",
+      "Ramo de atividade compatível com o objeto",
+      "Tratamento favorecido para microempresas e empresas de pequeno porte"
+    ]
+  },
+  {
+    "id": "doc_0011",
+    "customer_name": "Prefeitura Municipal de Acauã",
+    "tender_number": "008/2017",
+    "category": null,
+    "deadline": null,
+    "requirements": [
+      "Declaração de superveniência e de idoneidade",
+      "Declaração de não emprego de menores",
+      "Declaração de Elaboração Independente de Proposta",
+      "Registro comercial, para empresa individual",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Certidão negativa de falência, recuperação judicial ou extrajudicial",
+      "Declaração de inexistência de fato superveniente",
+      "Prova de inscrição no CNPJ",
+      "Prova de inscrição no Cadastro de Contribuintes Estadual e/ou Municipal",
+      "Declaração de regularidade perante as Fazendas Federal, Estadual e Municipal",
+      "Declaração de regularidade perante o INSS e o FGTS",
+      "Certidão Negativa de Débitos Trabalhistas",
+      "Balanço patrimonial e demonstrações contábeis do último exercício",
+      "Decreto de autorização, para empresa estrangeira"
+    ],
+    "participation_conditions": []
+  },
+  {
+    "id": "doc_0012",
+    "customer_name": "Agência Espacial Brasileira (AEB)",
+    "tender_number": null,
+    "category": "Locação de veículo sedan híbrido/elétrico com motorista",
+    "deadline": null,
+    "requirements": [
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Inscrição no Registro Público de Empresas Mercantis, para filial",
+      "Inscrição no Registro Civil, para sociedade simples",
+      "Decreto de autorização, para sociedade estrangeira",
+      "Prova de inscrição no CNPJ",
+      "Certidão Conjunta Negativa de Débitos Federais e Dívida Ativa da União",
+      "Prova de regularidade com o FGTS",
+      "Certidão Negativa de Débitos Trabalhistas",
+      "Prova de inscrição no cadastro de contribuintes municipal",
+      "Prova de regularidade com a Fazenda Municipal",
+      "Certidão negativa de falência, recuperação judicial ou extrajudicial",
+      "Balanço patrimonial e demonstrações contábeis do último exercício",
+      "Índices de Liquidez Geral, Solvência Geral e Liquidez Corrente superiores a 1",
+      "Capital Circulante Líquido de no mínimo 16,66% do valor estimado",
+      "Patrimônio líquido de 10% do valor estimado",
+      "Declaração de compromissos assumidos",
+      "Demonstração do Resultado do Exercício (DRE)",
+      "Atestado de capacidade técnica com período mínimo de 3 anos",
+      "Declaração de superveniência de fato impeditivo",
+      "Declaração de não emprego de menores",
+      "Declaração de inexistência de sócios parentes de servidores da contratante"
+    ],
+    "participation_conditions": []
+  },
+    {
+    "id": "doc_0013",
+    "customer_name": "Tribunal Regional do Trabalho da 18ª Região (TRT-18)",
+    "tender_number": null,
+    "category": "Manutenção, recarga e teste hidrostático em extintores de incêndio",
+    "deadline": null,
+    "requirements": [
+      "Registro comercial, para empresa individual",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Inscrição do ato constitutivo, para sociedades civis",
+      "Prova de inscrição no CNPJ",
+      "Prova de inscrição no cadastro de contribuintes estadual ou municipal",
+      "Prova de regularidade com a Fazenda Federal",
+      "Prova de regularidade com a Fazenda Estadual",
+      "Prova de regularidade com a Fazenda Municipal",
+      "Certificado de Regularidade do FGTS (CRF)",
+      "Certidão negativa de falência ou concordata",
+      "Declaração de não emprego de menores",
+      "Atestado de capacidade técnica",
+      "Comprovação de credenciamento junto ao INMETRO",
+      "Certidão Negativa de Débitos Trabalhistas (CNDT)"
+    ],
+    "participation_conditions": [
+      "Âmbito nacional, participação exclusiva de microempresas e empresas de pequeno porte",
+      "Não é admitida a participação de empresas em recuperação judicial ou falência",
+      "Não é admitida a participação de empresas em consórcio ou cooperativas",
+      "Não é admitida a participação de empresas estrangeiras",
+      "Credenciamento prévio no SICAF e no sistema eletrônico"
+    ]
+  },
+  {
+    "id": "doc_0014",
+    "customer_name": null,
+    "tender_number": null,
+    "category": null,
+    "deadline": null,
+    "requirements": [],
+    "participation_conditions": []
+  },
+  {
+    "id": "doc_0015",
+    "customer_name": "8º Batalhão de Engenharia de Construção (8º BEC)",
+    "tender_number": null,
+    "category": "Insumos de manutenção veicular (óleos lubrificantes e filtros)",
+    "deadline": null,
+    "requirements": [
+      "Inscrição no Registro Público de Empresas Mercantis, para empresário individual",
+      "Certificado da Condição de Microempreendedor Individual (CCMEI)",
+      "Ato constitutivo, estatuto ou contrato social em vigor",
+      "Inscrição do ato constitutivo, para sociedade simples",
+      "Certidão de microempresa ou empresa de pequeno porte",
+      "Ata de fundação e estatuto social, para cooperativa",
+      "Declaração de Aptidão ao Pronaf (DAP), para agricultor familiar",
+      "Matrícula no Cadastro Específico do INSS (CEI), para produtor rural",
+      "Decreto de autorização, para empresa estrangeira",
+      "Registro no Cadastro Técnico Federal (IBAMA)",
+      "Autorização da Agência Nacional do Petróleo (ANP)",
+      "Prova de inscrição no CNPJ ou CPF",
+      "Certidão Conjunta Negativa de Débitos Federais e Dívida Ativa da União",
+      "Prova de regularidade com o FGTS",
+      "Certidão Negativa de Débitos Trabalhistas",
+      "Certidão Negativa de Falência e Concordata",
+      "Atestado de capacidade técnica"
+    ],
+    "participation_conditions": []
+  }
+]
