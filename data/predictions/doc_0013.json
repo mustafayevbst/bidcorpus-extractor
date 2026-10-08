@@ -1,0 +1,38 @@
+{
+  "customer_name": null,
+  "tender_number": null,
+  "category": "Serviços de manutenção, recarga e teste hidrostático em extintores de incêndio",
+  "deadline": null,
+  "requirements": [
+    "Registro comercial, no caso de empresa individual",
+    "Ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, tratando-se de sociedades comerciais e, no caso de sociedades por ações, acompanhado de documentos de eleição e posse de seus administradores",
+    "Inscrição do ato constitutivo, no caso de sociedades civis, acompanhada de prova da diretoria em exercício",
+    "Prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ)",
+    "Prova de inscrição no cadastro de contribuintes estadual ou municipal, se houver, relativo ao domicílio ou sede do licitante, pertinente ao seu ramo de atividade e compatível com o objeto contratual",
+    "Certidão conjunta de regularidade da Fazenda Federal expedida pela Receita Federal do Brasil, Procuradoria‑Geral da Fazenda Nacional e INSS",
+    "Certidão de regularidade da Fazenda Estadual relativa ao ICMS, emitida pela Secretaria da Fazenda Estadual ou órgão correspondente",
+    "Certidão de regularidade da Fazenda Municipal relativa ao ISS, emitida pela Secretaria de Finanças Municipal ou órgão correspondente",
+    "Certificado de Regularidade do FGTS (CRF) fornecido pela Caixa Econômica Federal, devidamente atualizado",
+    "Caso a empresa não apresente a CRF, o pregoeiro verificará a regularidade na base de dados da Caixa Econômica Federal",
+    "Certidão negativa de falência ou concordata expedida pelo distribuidor da sede da pessoa jurídica",
+    "Declaração de que não possui empregados menores de 18 anos em trabalho noturno, perigoso ou insalubre e menores de 16 anos em qualquer trabalho, salvo aprendiz a partir de 14 anos",
+    "Comprovação de aptidão para prestação de serviços de manutenção, recarga e teste hidrostático em extintores de incêndio, mediante atestado de capacidade técnica e credenciamento junto ao INMETRO",
+    "Certidão Negativa de Débitos Trabalhistas (CNDT) conforme legislação",
+    "A CNDT pode ser expedida eletronicamente e gratuitamente no portal do TST",
+    "A aceitação da CNDT pode ser condicionada à verificação de autenticidade no portal do TST",
+    "Não serão aceitas certidões negativas de âmbito regional expedidas pelos Tribunais Regionais do Trabalho"
+  ],
+  "participation_conditions": [
+    "Participação exclusiva de microempresas (ME) e empresas de pequeno porte (EPP) de âmbito nacional, que cumpram os requisitos da Lei Complementar nº 123/2006",
+    "Não será admitida a participação de empresas em recuperação judicial, concordata, falência, dissolução ou liquidação",
+    "Não será admitida a participação de empresas reunidas em consórcio ou cooperativas",
+    "Não será admitida a participação de empresas com direito de licitar suspenso ou impedidas de contratar com o Tribunal, conforme art. 87, III da Lei nº 8.666/1993 ou art. 28 do Decreto 5.450/2005",
+    "Não será admitida a participação de empresas declaradas inidôneas conforme art. 87, IV da Lei nº 8.666/1993",
+    "Não será admitida a participação de empresas estrangeiras",
+    "Não será admitida a participação de empresas cujo objeto social não seja pertinente e compatível com o objeto do pregão",
+    "Não será admitida a participação de interessados sujeitos às demais vedações previstas no art. 9º da Lei nº 8.666/1993",
+    "O licitante deve declarar, no sistema eletrônico, estar ciente e concordar com as condições do edital e cumprir plenamente os requisitos de habilitação",
+    "É necessário estar previamente credenciado no Sistema de Cadastramento Unificado de Fornecedores (SICAF) e no sistema eletrônico da Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento"
+  ],
+  "id": "doc_0013"
+}

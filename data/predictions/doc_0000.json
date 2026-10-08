@@ -1,0 +1,23 @@
+{
+  "customer_name": "PREFEITURA MUNICIPAL DE CURRALINHOS-PI",
+  "tender_number": "002/2013",
+  "category": "Compra de combustíveis e lubrificantes",
+  "deadline": "13/05/2013 11:30",
+  "requirements": [
+    "Prova de situação regular perante o FGTS",
+    "Certidão Negativa de Débito (CND) do INSS",
+    "Contrato social e último aditivo",
+    "Prova de regularidade fiscal federal (Certidão Negativa de Dívida Ativa da União e Certidão de Quitação de Tributos)",
+    "Prova de regularidade fiscal estadual (Certidão Negativa de Dívida Ativa do Estado)",
+    "Prova de regularidade fiscal municipal (Certidão Negativa de Dívida Ativa do Município)",
+    "Cópia atualizada do CNPJ",
+    "Certidão de Registro e Quitação da firma na entidade profissional competente",
+    "Capital Social não inferior a 10% do valor global da licitação",
+    "Declarações exigidas (responsável pela empresa, inexistência de inidoneidade, veracidade dos documentos, compromisso de entrega, etc.)"
+  ],
+  "participation_conditions": [
+    "Empresas cadastradas previamente que apresentarem toda a documentação exigida nos subitens 5.1.1 a 5.1.5 e 5.1.8, válidas na data da abertura do procedimento",
+    "Documentos para habilitação e proposta devem ser apresentados em envelopes distintos"
+  ],
+  "id": "doc_0000"
+}

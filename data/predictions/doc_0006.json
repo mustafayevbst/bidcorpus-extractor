@@ -1,0 +1,26 @@
+{
+  "customer_name": null,
+  "tender_number": null,
+  "category": null,
+  "deadline": null,
+  "requirements": [
+    "Habilitação jurídica conforme documentos específicos (registro público, contrato social, etc.)",
+    "Regularidade fiscal e trabalhista (certidões negativas da Receita Federal, PGFN, FGTS, justiça do trabalho, cadastro estadual)",
+    "Qualificação econômico‑financeira (certidão de falência, balanço patrimonial, demonstrações contábeis, índices de liquidez)",
+    "Qualificação técnica (atestados de fornecimento dos últimos 3 anos)",
+    "Atualização prévia das informações no SICAF até 3 dias úteis antes da data de recebimento das propostas",
+    "Envio de documentos complementares em formato digital no prazo de 2 horas, sob pena de inabilitação",
+    "Apresentação de documentos originais quando houver dúvida sobre a integridade digital",
+    "Manutenção de CNPJ/CPF consistentes nos documentos",
+    "Documentação em nome da matriz ou filial conforme a natureza da empresa"
+  ],
+  "participation_conditions": [
+    "Consulta aos cadastros SICAF, CEIS, CNJ e CADICON (ou Consulta Consolidada de Pessoa Jurídica do TCU) para verificação de sanções",
+    "Verificação de existência de sanções que impeçam a participação ou futura contratação",
+    "Condição de participação prévia ao exame da documentação de habilitação",
+    "Convocação do licitante para manifestação antes da desclassificação em caso de ocorrências impeditivas",
+    "Inabilitação automática do licitante caso conste sanção nos cadastros consultados",
+    "Nova verificação de empate ficto em caso de inabilitação, conforme arts. 44 e 45 da Lei Complementar nº 123/2006"
+  ],
+  "id": "doc_0006"
+}

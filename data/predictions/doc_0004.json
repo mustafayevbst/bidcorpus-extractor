@@ -1,0 +1,33 @@
+{
+  "customer_name": "Prefeitura Municipal e secretarias do município de São João da Canabrava-PI",
+  "tender_number": null,
+  "category": "Aquisição de materiais de construção",
+  "deadline": null,
+  "requirements": [
+    "Registro comercial ou cédula de identidade do titular (para empresa individual)",
+    "Ato constitutivo, estatuto ou contrato social em vigor, registrado (para sociedade comercial)",
+    "Ato constitutivo registrado no Cartório de Registro Civil de Pessoas Jurídicas (para sociedades civis) com prova da diretoria em exercício",
+    "Inscrição do Ato Constitutivo no caso de Sociedades Civis, com prova de Diretoria em exercício",
+    "Prova de inscrição no CNPJ",
+    "Certidão Negativa de Débito junto à Previdência Social – INSS",
+    "Certificado de Regularidade do FGTS (CRF)",
+    "Certidão Negativa Tributária da sede (municipal) válida",
+    "Certidão Negativa de Dívida Ativa da sede (municipal) válida",
+    "Certidão Negativa Tributária da sede (estadual) válida",
+    "Certidão Negativa de Dívida Ativa da sede (estadual) válida",
+    "Certidão Conjunta de Débitos Relativos a Tributos Federais e à Dívida Ativa da União válida",
+    "Alvará de funcionamento emitido pelo Poder Público Municipal",
+    "Autenticidade de documentos emitidos via internet (verso)",
+    "Declaração em papel timbrado de cumprimento dos requisitos de habilitação (Anexo III)",
+    "Declaração em papel timbrado de inexistência de impedimento legal (Anexo IV)",
+    "Declaração em papel timbrado de não empregar menores em trabalho noturno, perigoso ou insalubre (Anexo V)"
+  ],
+  "participation_conditions": [
+    "Empresas regularmente estabelecidas no País, especializadas e credenciadas no objeto da licitação",
+    "Não se admitirá participação de consórcios ou união por vinculação semelhante",
+    "Sócios ou dirigentes não podem ser servidores da Administração contratante",
+    "Não podem participar empresas em falência, concordata, concurso de credores, dissolução, liquidação, estrangeiras que não operem no país, inidôneas ou punidas com suspensão de direito de licitar",
+    "Não podem participar interessados sob penalidade de suspensão temporária ou definitiva imposta por órgão da Administração Pública"
+  ],
+  "id": "doc_0004"
+}

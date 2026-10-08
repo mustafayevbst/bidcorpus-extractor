@@ -1,0 +1,34 @@
+{
+  "customer_name": null,
+  "tender_number": null,
+  "category": null,
+  "deadline": null,
+  "requirements": [
+    "Proposta de Preços (price proposal)",
+    "Certidão Negativa de Débitos relativos aos Tributos Federais, à Dívida Ativa da União e às contribuições previdenciárias e de terceiros",
+    "Certidão Negativa de Débitos Estaduais da sede do proponente",
+    "Certidão Negativa de Débitos Municipais da sede do proponente",
+    "Certificado de Regularidade do FGTS",
+    "Certidão Negativa de Débitos Trabalhistas",
+    "Declaração de cumprimento do inciso XXXIII do art. 7º da Constituição Federal",
+    "Certidão Negativa de Falência, Concordata, Recuperação Judicial e Extrajudicial",
+    "Balanço Patrimonial e demonstrações contábeis do último exercício social",
+    "Índices de Liquidez Geral, Solvência Geral e Liquidez Corrente superiores a 1",
+    "Certidão de Acervo técnico emitida pelo CREA ou outro conselho competente",
+    "Atestado de capacidade técnica registrado no CREA ou outro conselho competente",
+    "Certidão de registro de Pessoa Jurídica expedida pelo CREA ou outro conselho competente",
+    "Comprovação de que o responsável técnico integra o quadro permanente (Carteira de Trabalho, contrato de prestação de serviço ou contrato social)",
+    "Certificado de Registro Cadastral-CRC (para proponentes inscritos no Cadastro Geral de Fornecedores do Município de Joinville)",
+    "Prova de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ)",
+    "Ato constitutivo, estatuto ou contrato social em vigor, registrado",
+    "Comprovantes de regularidade fiscal e trabalhista (INSS, FGTS) com validade até a data limite"
+  ],
+  "participation_conditions": [
+    "Participação mediante digitação de senha pessoal e intransferível do representante credenciado, com envio da proposta de preços e documentos de habilitação via sistema eletrônico, observando a data e horário limite estabelecidos",
+    "Podem participar proponentes cujo ramo de atividade seja compatível com o objeto da licitação e que estejam credenciados no SICAF",
+    "O proponente deve acompanhar as operações no sistema eletrônico durante a sessão pública e é responsável por perdas decorrentes de mensagens não observadas ou desconexão",
+    "Em caso de desconexão, o sistema pode permanecer acessível para recebimento de lances, retomando a atuação do pregoeiro quando possível",
+    "Se a desconexão persistir por mais de 10 minutos, a sessão será suspensa e reiniciada após 24 horas a partir da comunicação aos participantes"
+  ],
+  "id": "doc_0001"
+}

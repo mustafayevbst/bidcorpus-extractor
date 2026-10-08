@@ -1,0 +1,28 @@
+{
+  "customer_name": "Prefeitura Municipal de Barreiras do Piauí",
+  "tender_number": null,
+  "category": "Registro de Preços para aquisição futura de combustíveis",
+  "deadline": null,
+  "requirements": [
+    "Enviar proposta e documentos de habilitação exclusivamente pelo sistema eletrônico até a data e horário marcados para abertura da sessão pública",
+    "Informar o valor com no máximo duas casas decimais, já incluídos todos os tributos, fretes, tarifas e demais despesas",
+    "Declarar que cumpre plenamente os requisitos de habilitação e que a proposta está em conformidade com o edital",
+    "Declarar que não emprega menores de 18 anos em trabalho noturno, perigoso ou insalubre, nem menores de 16 anos em qualquer trabalho, salvo como aprendiz a partir de 14 anos",
+    "A declaração falsa sujeita o licitante às sanções previstas no edital",
+    "É facultado ao licitante deixar de apresentar documentos já constantes no SICAF",
+    "Microempresas e Empresas de Pequeno Porte devem encaminhar a documentação de habilitação mesmo havendo restrições de regularidade fiscal ou trabalhista conforme Lei 123/2006",
+    "Não será estabelecida ordem de classificação nesta etapa; a classificação ocorrerá após negociação e julgamento",
+    "Os documentos da proposta melhor classificada serão disponibilizados para avaliação após o encerramento do envio de lances",
+    "As propostas ficarão disponíveis no sistema eletrônico"
+  ],
+  "participation_conditions": [
+    "Poderão participar interessadas estabelecidas no País que satisfaçam as condições do edital, desempenhem atividade pertinente ao objeto e estejam credenciadas no Sistema de Cadastramento Unificado de Fornecedores – SICAF conforme IN SEGES/MP nº3/2018",
+    "Os interessados devem possuir chave de identificação e senha pessoal para acesso ao sistema eletrônico",
+    "O licitante responsabiliza‑se exclusivamente pelas transações efetuadas em seu nome e assume a veracidade das propostas e lances",
+    "O credenciamento implica responsabilidade do licitante ou representante legal e presunção de capacidade técnica para as transações",
+    "Informações complementares sobre credenciamento podem ser obtidas pelo telefone 0800 978 9001 ou no site http://www.comprasnet.gov.br",
+    "Será concedido tratamento favorecido para microempresas, empresas de pequeno porte, cooperativas, agricultor familiar, produtor rural pessoa física e microempreendedor individual (MEI) nos limites da Lei Complementar nº 123/2006",
+    "Não poderão participar deste Pregão"
+  ],
+  "id": "doc_0003"
+}

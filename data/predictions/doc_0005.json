@@ -1,0 +1,31 @@
+{
+  "customer_name": "31º Batalhão de Infantaria Motorizado",
+  "tender_number": null,
+  "category": "Registro de Preços",
+  "deadline": null,
+  "requirements": [
+    "Inscrição e regularidade no Sistema de Cadastro Unificado de Fornecedores (SICAF)",
+    "Ausência de sanções nos cadastros SICAF, CEIS, CNJ e TCU",
+    "Documentação de habilitação jurídica conforme tipo societário (registro público, ato constitutivo, contrato social, etc.)",
+    "Registro na Agência Nacional de Petróleo (Portaria nº 41/2013)",
+    "Certificado de Regularidade do IBAMA ou declaração equivalente",
+    "Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ)",
+    "Certidão conjunta de regularidade com a Fazenda Nacional",
+    "Prova de regularidade com a Seguridade Social (INSS)",
+    "Prova de regularidade com o FGTS",
+    "Certidão negativa ou positiva com efeito de negativa de débitos trabalhistas",
+    "Prova de inscrição e regularidade com a Fazenda Estadual",
+    "Declaração de isenção de tributos estaduais, se aplicável",
+    "Documentação enviada via fax ou e‑mail dentro do prazo estabelecido"
+  ],
+  "participation_conditions": [
+    "Não possuir sanção que impeça a participação ou contratação com o Poder Público",
+    "Cumprir o nível de credenciamento exigido no SICAF para Pregão Eletrônico",
+    "Apresentar toda a documentação exigida dentro dos prazos (2 horas, 2 dias, 5 dias úteis)",
+    "Não apresentar documentos com CNPJ diferentes dos permitidos",
+    "Em caso de microempresa, empresa de pequeno porte ou cooperativa, regularizar eventuais restrições fiscais no prazo de 5 dias úteis",
+    "Possibilidade de suspensão da sessão para análise de documentos, com nova data e horário comunicados",
+    "Inabilitação por não comprovar habilitação ou por documentos em desacordo com o edital"
+  ],
+  "id": "doc_0005"
+}

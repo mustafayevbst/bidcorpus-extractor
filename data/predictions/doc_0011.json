@@ -1,0 +1,25 @@
+{
+  "customer_name": "Prefeitura Municipal de ACAUÃ",
+  "tender_number": "008/2017",
+  "category": null,
+  "deadline": null,
+  "requirements": [
+    "declaração de superveniência e de idoneidade (Anexo III)",
+    "declaração de que a empresa não possui menores de 18 anos em trabalho noturno, perigoso ou insalubre e menores de 16 anos em qualquer trabalho, salvo na condição de aprendiz a partir de 14 anos (Anexo IV)",
+    "declaração de Elaboração Independente de Proposta (Anexo V)",
+    "registro comercial para empresa individual ou ato constitutivo, estatuto ou contrato social para sociedades",
+    "certidão negativa de falência, recuperação judicial ou extrajudicial",
+    "declaração de inexistência de fato superveniente que possa impedir a habilitação",
+    "prova de inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ)",
+    "prova de inscrição no Cadastro de Contribuintes Estadual e/ou Municipal",
+    "declaração de regularidade perante as Fazendas Federal, Estadual e Municipal",
+    "declaração de regularidade perante a Seguridade Social (INSS) e FGTS",
+    "certidão negativa de débitos trabalhistas – CNDT",
+    "balanço patrimonial e demonstrações contábeis do último exercício financeiro",
+    "certidão negativa de falência, recuperação judicial ou extrajudicial com data não superior a 60 dias",
+    "documentação original ou cópia autenticada",
+    "decreto de autorização ou ato de registro para empresa estrangeira em funcionamento no país"
+  ],
+  "participation_conditions": [],
+  "id": "doc_0011"
+}

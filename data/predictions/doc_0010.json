@@ -1,0 +1,43 @@
+{
+  "customer_name": "4ª Cia G",
+  "tender_number": null,
+  "category": "Serviços de reforma das instalações elétricas",
+  "deadline": null,
+  "requirements": [
+    "Documentação obrigatória e habilitação parcial válidas no SICAF",
+    "Cédula de Identidade e CPF dos Diretores/Sócios",
+    "Contrato Social e suas alterações, registradas na Junta Comercial ou equivalente",
+    "Inscrição no CNPJ atualizada e Certidão Negativa de Débitos conjunta (Receita Federal e Dívida Ativa da União)",
+    "Certidão Negativa do FGTS e Certidão Negativa do INSS",
+    "Certidão Negativa da Receita Estadual e Certidão Negativa da Receita Municipal",
+    "Balanço Patrimonial do último exercício",
+    "Certidão negativa de falência e concordata com data até 30 dias da proposta",
+    "Documentação relativa à habilitação jurídica",
+    "Documentação relativa à qualificação econômico-financeira",
+    "Documentação relativa à regularidade fiscal com a Fazenda Nacional, seguridade social e FGTS",
+    "Documentação relativa à regularidade fiscal perante as Fazendas Estaduais e Municipais",
+    "Certidão expedida pela Junta Comercial comprovando condição de microempresa ou empresa de pequeno porte",
+    "Para cooperativas: Ata de Fundação e Estatuto Social; Regimento dos fundos; Editais das três últimas assembleias; prova de registro previsto no art. 107 da Lei 5.754/71; Ata da sessão que autorizou contratação",
+    "Declaração de que não possui menores de 18 em trabalho noturno/perigoso/insalubre e menores de 16 em qualquer trabalho, salvo aprendiz a partir de 14",
+    "Declaração de fatos futuros impeditivos de habilitação (Anexo IV)",
+    "Atestado de capacidade técnica fornecido por instituições públicas ou privadas",
+    "Verificação em sítios oficiais de órgãos emissores de certidões quando não for possível consulta no SICAF"
+  ],
+  "participation_conditions": [
+    "Deve estar previamente credenciado no sistema eletrônico para pregão eletrônico fornecido pela Secretaria de Logística e Tecnologia da Informação do Ministério do Planejamento, Orçamento e Gestão via www.comprasnet.gov.br",
+    "Deve possuir chave de identificação e senha pessoal obtidas junto ao provedor do sistema",
+    "Responsabilidade exclusiva pelo uso da senha é da licitante",
+    "Não podem participar consórcios de empresas",
+    "Não podem participar empresas estrangeiras não autorizadas a operar no país",
+    "Não podem participar empresas suspensas de participar de licitação",
+    "Não podem participar empresas impedidas de contratar com a Administração Pública",
+    "Não podem participar empresas em falência, concordata, dissolução, liquidação ou declaradas inidôneas",
+    "Não podem participar empresas cujo objeto social não seja compatível com o objeto do pregão",
+    "Não podem participar empresas que não atendam às condições deste edital",
+    "Deve declarar no sistema eletrônico que está ciente e concorda com as condições do edital e cumpre os requisitos de habilitação",
+    "Declaração falsa sujeita a sanções previstas no edital",
+    "Participação implica submissão total, irrestrita e irrevogável às condições do edital",
+    "Participação de microempresas e empresas de pequeno porte conforme Lei Complementar n° 123/06"
+  ],
+  "id": "doc_0010"
+}

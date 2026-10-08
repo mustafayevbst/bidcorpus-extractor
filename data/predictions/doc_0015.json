@@ -1,0 +1,25 @@
+{
+  "customer_name": "8º Batalhão de Engenharia de Construção (8º BEC)",
+  "tender_number": null,
+  "category": "Registro de preços - Insumos de manutenção veicular (óleos lubrificantes e filtros)",
+  "deadline": null,
+  "requirements": [
+    "Consulta aos cadastros de sanções (SICAF, CEIS, Cadastro Nacional de Condenações Cíveis, Lista de Inidôneos do TCU)",
+    "Regularidade jurídica e fiscal verificada pelo SICAF",
+    "Apresentação de documentação válida em até 2 horas caso a certidão não seja obtida eletronicamente",
+    "Documentação de habilitação jurídica conforme tipo de empresa (inscrição no Registro Público, CCMEI, ato constitutivo, certidão de microempresa, estatuto de cooperativa, etc.)",
+    "Comprovação de regularidade fiscal e trabalhista (inscrição no CNPJ/CPF, certidão conjunta RFB/PGFN, FGTS, certidão negativa de débitos trabalhistas, certidão negativa de falência e concordata)",
+    "Qualificação técnica mediante atestados de fornecimento de bens por pessoa jurídica pública ou privada",
+    "Dispensa de alguns documentos para microempreendedor individual (inscrição estadual/municipal e balanço patrimonial)",
+    "Envio dos documentos de habilitação via e‑mail no prazo de 02 horas após solicitação, com posterior apresentação em original ou cópia autenticada dentro de 05 dias"
+  ],
+  "participation_conditions": [
+    "Não possuir sanção que impeça a participação (consulta a SICAF, CEIS, CNJ, TCU)",
+    "Estar cadastrado no SICAF com nível de credenciamento exigido",
+    "Cumprir as exigências de habilitação jurídica e regularidade fiscal e trabalhista",
+    "Apresentar comprovação de qualificação técnica (atestados)",
+    "Obedecer aos prazos de envio e apresentação de documentos estabelecidos no edital",
+    "Atender ao credenciamento básico no SICAF para participação no Pregão eletrônico"
+  ],
+  "id": "doc_0015"
+}

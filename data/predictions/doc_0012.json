@@ -1,0 +1,22 @@
+{
+  "customer_name": "Agência Espacial Brasileira – AEB",
+  "tender_number": null,
+  "category": "locação de veículo de representação (sedan híbrido/elétrico) com fornecimento de combustível e motorista",
+  "deadline": null,
+  "requirements": [
+    "Habilitação jurídica",
+    "Regularidade fiscal e trabalhista",
+    "Qualificação econômico‑financeira",
+    "Qualificação técnica",
+    "Apresentação de documentos comprobatórios nos cadastros oficiais (SICAF, CEIS, CNJ, CADICON)"
+  ],
+  "participation_conditions": [
+    "Não possuir sanção que impeça a participação ou futura contratação",
+    "Estar regular nos cadastros SICAF, CEIS, CNJ e CADICON",
+    "Atualizar informações no SICAF até três dias antes da data de recebimento das propostas",
+    "Apresentar documentos originais quando houver dúvida sobre a integridade digital",
+    "CNPJ/CPF devem ser consistentes entre documentos",
+    "Cumprir os requisitos de habilitação jurídica, fiscal, econômico‑financeira e técnica"
+  ],
+  "id": "doc_0012"
+}
