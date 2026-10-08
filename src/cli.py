@@ -4,11 +4,14 @@
     python -m src.cli extract         # извлечь поля из всех документов в gold
     python -m src.cli evaluate        # посчитать метрики
     python -m src.cli check FIELD     # показать расхождения по полю
+    python -m src.cli check-metrics   # проверить метрики против порогов
 """
 
 import argparse
 import json
 import os
+import sys
+
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -96,6 +99,44 @@ def cmd_check(args):
 
     print(f"Всего расхождений: {found}")
 
+MIN_METRICS = {
+    "customer_name_fuzzy": 0.75,
+    "tender_number_exact": 0.90,
+    "category_fuzzy": 0.80,
+    "deadline_exact": 0.90,
+    "requirements_fuzzy_f1": 0.60,
+    "participation_conditions_fuzzy_f1": 0.50,
+}
+
+def cmd_check_metrics(args):
+    rows = evaluate()
+    n=len(rows)
+    if n == 0:
+        print("Нет данных")
+        sys.exit(1)
+
+    failed = []
+    for field, threshold in MIN_METRICS.items():
+        if field.endswith("_fuzzy_f1"):
+            base = field.replace("_fuzzy_f1", "")
+            value = sum(r[f"{base}_fuzzy_f1"] for r in rows) / n
+        elif field.endswith("_fuzzy"):
+            value=sum(r[field] for r in rows) / n
+        elif field.endswith("_exact"):
+            value=sum(r[field] for r in rows) / n
+        else:
+            continue
+
+        status="OK" if value >= threshold else "FAIL"
+        print(f"{field:40s} {value:.2f} (min {threshold:.2f}) {status}")
+        if value < threshold:
+            failed.append(field)
+
+    if failed:
+        print(f"\nПровалено метрик: {len(failed)}")
+        sys.exit(1)
+
+    print("\nВсе метрики выше порога")
 
 def main():
     parser = argparse.ArgumentParser(prog="src.cli", description="BidCorpus Tender Extractor")
@@ -111,6 +152,9 @@ def main():
     p_check = sub.add_parser("check", help="показать расхождения по полю")
     p_check.add_argument("field", help="customer_name / tender_number / category / deadline / requirements / participation_conditions")
     p_check.set_defaults(func=cmd_check)
+
+    p_metrics = sub.add_parser("check-metrics", help="проверить метрики против порогов")
+    p_metrics.set_defaults(func=cmd_check_metrics)
 
     args = parser.parse_args()
     args.func(args)
