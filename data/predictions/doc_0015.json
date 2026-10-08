@@ -1,25 +1,33 @@
 {
   "customer_name": "8º Batalhão de Engenharia de Construção (8º BEC)",
   "tender_number": null,
-  "category": "Registro de preços - Insumos de manutenção veicular (óleos lubrificantes e filtros)",
+  "category": "Óleos lubrificantes e filtros",
   "deadline": null,
   "requirements": [
-    "Consulta aos cadastros de sanções (SICAF, CEIS, Cadastro Nacional de Condenações Cíveis, Lista de Inidôneos do TCU)",
-    "Regularidade jurídica e fiscal verificada pelo SICAF",
-    "Apresentação de documentação válida em até 2 horas caso a certidão não seja obtida eletronicamente",
-    "Documentação de habilitação jurídica conforme tipo de empresa (inscrição no Registro Público, CCMEI, ato constitutivo, certidão de microempresa, estatuto de cooperativa, etc.)",
-    "Comprovação de regularidade fiscal e trabalhista (inscrição no CNPJ/CPF, certidão conjunta RFB/PGFN, FGTS, certidão negativa de débitos trabalhistas, certidão negativa de falência e concordata)",
-    "Qualificação técnica mediante atestados de fornecimento de bens por pessoa jurídica pública ou privada",
-    "Dispensa de alguns documentos para microempreendedor individual (inscrição estadual/municipal e balanço patrimonial)",
-    "Envio dos documentos de habilitação via e‑mail no prazo de 02 horas após solicitação, com posterior apresentação em original ou cópia autenticada dentro de 05 dias"
+    "Inscrição no Registro Público de Empresas Mercantis (Junta Comercial)",
+    "Certificado da Condição de Microempreendedor Individual (CCMEI)",
+    "Ato constitutivo, estatuto ou contrato social em vigor registrado na Junta Comercial, com documentos dos administradores",
+    "Inscrição do ato constitutivo no Registro Civil das Pessoas Jurídicas",
+    "Certidão expedida pela Junta Comercial ou Registro Civil que comprove condição de microempresa ou empresa de pequeno porte",
+    "Ata de fundação e estatuto social em vigor, com registro, para cooperativas",
+    "Declaração de Aptidão ao Pronaf (DAP) para agricultor familiar",
+    "Matrícula no Cadastro Específico do INSS – CEI para produtor rural",
+    "Decreto de autorização para empresa ou sociedade estrangeira",
+    "Registro de fabricante/distribuidor/transportador no Cadastro Técnico Federal (atividades ambientais)",
+    "Autorização da Agência Nacional do Petróleo (ANP) para itens de combustíveis",
+    "Prova de inscrição no CNPJ ou CPF",
+    "Certidão de regularidade fiscal perante a Fazenda Nacional (RFB + PGFN)",
+    "Prova de regularidade com o FGTS",
+    "Certidão negativa ou positiva com efeito de negativa da Justiça do Trabalho",
+    "Certidão Negativa de Falência e Concordata",
+    "Atestados de aptidão para fornecimento de bens (qualificação técnica)"
   ],
   "participation_conditions": [
-    "Não possuir sanção que impeça a participação (consulta a SICAF, CEIS, CNJ, TCU)",
-    "Estar cadastrado no SICAF com nível de credenciamento exigido",
-    "Cumprir as exigências de habilitação jurídica e regularidade fiscal e trabalhista",
-    "Apresentar comprovação de qualificação técnica (atestados)",
-    "Obedecer aos prazos de envio e apresentação de documentos estabelecidos no edital",
-    "Atender ao credenciamento básico no SICAF para participação no Pregão eletrônico"
+    "Credenciamento básico no SICAF é obrigatório para participação",
+    "Não pode possuir sanções nos cadastros SICAF, CEIS, Cadastro Nacional de Condenações Cíveis, Lista de Inidôneos do TCU",
+    "Impedimento de participação se houver sanção que proíba contratação com o Poder Público (Lei 8.429/1992)",
+    "Deve atender às condições de participação estabelecidas no edital, incluindo apresentação de documentos dentro dos prazos especificados",
+    "Empresas ou sócios majoritários devem estar regularizados nos cadastros de sanções"
   ],
   "id": "doc_0015"
 }

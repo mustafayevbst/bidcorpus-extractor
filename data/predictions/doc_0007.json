@@ -1,23 +1,23 @@
 {
-  "customer_name": "SECRETARIA DA INFRA-ESTRUTURA DO ESTADO DO PIAUÍ - SEINFRA",
-  "tender_number": "CONVITE Nº 29/2008",
-  "category": "MENOR PREÇO",
+  "customer_name": "Secretaria da Infraestrutura do Estado do Piauí - SEINFRA",
+  "tender_number": "29/2008",
+  "category": "Estudo geofísico",
   "deadline": "28/05/2008 09:00",
   "requirements": [
-    "Ato constitutivo, estatuto social em vigor devidamente registrado, e documentação de eleição de administradores (para sociedades por ações)",
+    "Ato constitutivo, estatuto social em vigor devidamente registrado, e, no caso de sociedade por ações, documentação de eleição de administradores",
     "Registro ou inscrição na entidade profissional competente do domicílio ou sede do licitante",
     "Certidão Negativa de Débitos (CND) expedida pelo INSS",
     "Certidão de Quitação com o FGTS",
-    "Certidão de Quitação com as Fazendas Federal, Estadual e Municipal, inclusive Certidão Negativa da Dívida Ativa",
+    "Certidão de Quitação com as Fazendas Federal, Estadual e Municipal, inclusive Certidão Negativa da Dívida Ativa, quando houver",
     "Certidão Negativa de falência, recuperação judicial ou extrajudicial expedida pelo distribuidor da sede da licitante",
     "Declaração de que não possui menores de 18 anos em trabalho noturno, perigoso ou insalubre e menores de 16 anos em qualquer trabalho, salvo aprendiz a partir de 14 anos",
-    "As certidões apresentadas via INTERNET somente serão aceitas em original, sujeitas à confirmação pela Comissão"
+    "As certidões apresentadas via INTERNET somente serão aceitas em original, sujeitas à confirmação pela Comissão Permanente de Licitação"
   ],
   "participation_conditions": [
-    "Poderão participar interessados do ramo pertinente ao objeto, cadastrados ou não, escolhidos e convidados em número mínimo de três, estendendo-se o direito aos cadastrados no CADUF/PI que manifestem interesse até 24 horas antes da apresentação das propostas",
-    "Não serão admitidos empresários e empresas sob falência, recuperação judicial ou extrajudicial, ou em fase de dissolução ou liquidação",
+    "Poderão participar interessados do ramo pertinente ao objeto, cadastrados ou não, escolhidos e convidados em número mínimo de três, estendendo-se o direito aos cadastrados no CADUF/PI que manifestem interesse com antecedência de até 24 horas da apresentação das propostas",
+    "Não serão admitidos empresários e empresas em falência, recuperação judicial ou extrajudicial, ou em fase de dissolução ou liquidação",
     "Não será admitida a participação de empresas em regime de consórcio",
-    "Não poderá participar empresas cujos diretores, responsáveis legais ou técnicos, membros de conselho ou sócio sejam servidor ou dirigente de órgão ou entidade contratante ou responsável pela licitação"
+    "Não poderão participar empresas cujos diretores, responsáveis legais ou técnicos, membros de conselho ou sócios sejam servidores ou dirigentes do órgão contratante ou responsável pela licitação"
   ],
   "id": "doc_0007"
 }

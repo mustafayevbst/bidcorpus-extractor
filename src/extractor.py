@@ -1,6 +1,8 @@
 import json
 import os
+import time
 from pathlib import Path
+
 
 from dotenv import load_dotenv
 from groq import Groq
@@ -24,21 +26,82 @@ SYSTEM_PROMPT = """
     "deadline": string | null,
     "requirements": [string],
     "participation_conditions": [string]
-}"""
+}
 
-def extract (text: str, client:Groq) ->dict:
-    response = client.chat.completions.create(
-        model=MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": text},
-        ],
-        response_format={"type": "json_object"},
-        temperature=0,
-        max_tokens=8192,
-    )
-    raw = response.choices[0].message.content
-    return json.loads(raw)
+Пояснения к полям:
+
+"customer_name" — название организации-заказчика (Prefeitura, Tribunal, Batalhão, Ministério и т.п.).
+Указывай полное каноническое название, включая штат/город, если он упомянут в тексте.
+Заказчик может упоминаться неявно: в адресе для направления документов, в названии связанного
+органа, в реквизитах контракта. Восстанавливай название из контекста, не возвращай null,
+если заказчика можно определить.
+Примеры:
+  "Prefeitura Municipal de Curralinhos-PI"
+  "Tribunal Regional do Trabalho da 18ª Região (TRT-18)"
+  "31º Batalhão de Infantaria Motorizado"
+  "Agência Espacial Brasileira (AEB)"
+"tender_number" — номер процедуры, обычно в формате NNN/YYYY или "Pregão Nº NNN/YYYY".
+Если в тексте нет номера, верни null.
+
+"category" — это ЧТО ЗАКУПАЮТ, предмет закупки, а не тип процедуры и не критерий оценки.
+ХОРОШО: "Combustíveis e lubrificantes", "Material de construção", "Serviços de manutenção predial",
+"Equipamentos de informática", "Gêneros alimentícios", "Serviço de perícia médica".
+ПЛОХО (это НЕ категория): "Registro de Preços", "Pregão Eletrônico", "MENOR PREÇO",
+"Tomada de Preços", "Convite", "Maior Desconto".
+Если предмет закупки описан в OBJETO как "aquisição de X" или "contratação de serviço de X",
+то категория — это X в краткой форме.
+
+"deadline" — дата и время вскрытия конвертов или окончания приёма заявок,
+в формате DD/MM/YYYY HH:MM. Если указана только дата, верни DD/MM/YYYY.
+
+"requirements" — список документов и требований к участникам для допуска к тендеру
+(из секции HABILITACAO). Сохраняй формулировки из текста, но можно сокращать длинные
+юридические обороты до сути. Не выдумывай требования, которых нет в тексте.
+
+"participation_conditions" — список условий участия в тендере
+(из секции CONDICAO_PARTICIPACAO): кто может участвовать, кто не может,
+какие ограничения. Сохраняй суть, не перефразируй сильно.
+
+Пример правильного ответа:
+{
+  "customer_name": "Prefeitura Municipal de Curralinhos-PI",
+  "tender_number": "002/2013",
+  "category": "Combustíveis e lubrificantes",
+  "deadline": "13/05/2013 11:30",
+  "requirements": [
+    "Prova de situação regular perante o FGTS",
+    "Certidão Negativa de Débito (CND) do INSS"
+  ],
+  "participation_conditions": [
+    "Empresas cadastradas previamente com documentação válida na data da abertura",
+    "Documentos para habilitação e proposta em envelopes distintos"
+  ]
+}
+"""
+
+def extract (text: str, client:Groq, max_retries: int=5) -> dict:
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(
+                model=MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": text},
+                ],
+                response_format={"type": "json_object"},
+                temperature=0,
+                max_tokens=8192,
+            )
+            raw = response.choices[0].message.content
+            return json.loads(raw)
+        except Exception as e:
+            if "429" in str(e):
+                wait = 30 * (attempt+1)
+                print(f"    429, жду {wait} сек (попытка {attempt+1}/{max_retries})...")
+                time.sleep(wait)
+            else:
+                raise
+    raise RuntimeError(f"Не удалось после {max_retries}попыток")
 
 def extract_file(path: Path, client: Groq) -> dict:
     with open(path, encoding="utf-8") as f:

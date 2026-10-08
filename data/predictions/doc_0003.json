@@ -1,28 +1,34 @@
 {
-  "customer_name": "Prefeitura Municipal de Barreiras do Piauí",
+  "customer_name": "Prefeitura Municipal de Barreiras do Piauí-PI",
   "tender_number": null,
-  "category": "Registro de Preços para aquisição futura de combustíveis",
+  "category": "Combustíveis e derivados de petróleo",
   "deadline": null,
   "requirements": [
-    "Enviar proposta e documentos de habilitação exclusivamente pelo sistema eletrônico até a data e horário marcados para abertura da sessão pública",
-    "Informar o valor com no máximo duas casas decimais, já incluídos todos os tributos, fretes, tarifas e demais despesas",
-    "Declarar que cumpre plenamente os requisitos de habilitação e que a proposta está em conformidade com o edital",
-    "Declarar que não emprega menores de 18 anos em trabalho noturno, perigoso ou insalubre, nem menores de 16 anos em qualquer trabalho, salvo como aprendiz a partir de 14 anos",
-    "A declaração falsa sujeita o licitante às sanções previstas no edital",
-    "É facultado ao licitante deixar de apresentar documentos já constantes no SICAF",
-    "Microempresas e Empresas de Pequeno Porte devem encaminhar a documentação de habilitação mesmo havendo restrições de regularidade fiscal ou trabalhista conforme Lei 123/2006",
-    "Não será estabelecida ordem de classificação nesta etapa; a classificação ocorrerá após negociação e julgamento",
-    "Os documentos da proposta melhor classificada serão disponibilizados para avaliação após o encerramento do envio de lances",
-    "As propostas ficarão disponíveis no sistema eletrônico"
+    "Proposta e documentos de habilitação enviados eletronicamente via sistema até a data/hora da abertura da sessão pública",
+    "Valor da proposta com no máximo duas casas decimais, já incluindo tributos, fretes, tarifas e demais despesas",
+    "Declaração de cumprimento dos requisitos de habilitação e conformidade da proposta no sistema",
+    "Declaração de não empregar menores de 18 anos em trabalho noturno, perigoso ou insalubre, nem menores de 16 anos em qualquer trabalho, salvo como aprendiz a partir de 14 anos",
+    "Documentação de habilitação conforme SICAF, podendo ser dispensada se já consta no SICAF",
+    "Microempresas e Empresas de Pequeno Porte devem apresentar documentação de habilitação mesmo com restrição de regularidade fiscal ou trabalhista",
+    "Empresário individual: inscrição no Registro Público de Empresas Mercantis (Junta Comercial)",
+    "MEI: Certificado da Condição de Microempreendedor Individual (CCMEI) com verificação no portal www.portaldoempreendedor.gov.br",
+    "Sociedade empresária ou EIRELI: ato constitutivo, estatuto ou contrato social registrado na Junta Comercial, com documentos dos administradores",
+    "Sociedade simples: ato constitutivo registrado no Registro Civil das Pessoas Jurídicas, com prova dos administradores",
+    "Cooperativa: ata de fundação e estatuto social em vigor, registrados no órgão competente",
+    "Agricultor familiar: Declaração de Aptidão ao Pronaf (DAP ou DAP‑P) ou documentos definidos pela Secretaria Especial de Agricultura Familiar",
+    "Produtor rural pessoa física: matrícula no Cadastro Específico do INSS (CEI)",
+    "Empresa ou sociedade estrangeira: decreto de autorização",
+    "Atividade regulada: ato de registro ou autorização do órgão competente",
+    "Todos os documentos devem ser acompanhados de suas alterações ou consolidação"
   ],
   "participation_conditions": [
-    "Poderão participar interessadas estabelecidas no País que satisfaçam as condições do edital, desempenhem atividade pertinente ao objeto e estejam credenciadas no Sistema de Cadastramento Unificado de Fornecedores – SICAF conforme IN SEGES/MP nº3/2018",
-    "Os interessados devem possuir chave de identificação e senha pessoal para acesso ao sistema eletrônico",
-    "O licitante responsabiliza‑se exclusivamente pelas transações efetuadas em seu nome e assume a veracidade das propostas e lances",
-    "O credenciamento implica responsabilidade do licitante ou representante legal e presunção de capacidade técnica para as transações",
-    "Informações complementares sobre credenciamento podem ser obtidas pelo telefone 0800 978 9001 ou no site http://www.comprasnet.gov.br",
-    "Será concedido tratamento favorecido para microempresas, empresas de pequeno porte, cooperativas, agricultor familiar, produtor rural pessoa física e microempreendedor individual (MEI) nos limites da Lei Complementar nº 123/2006",
-    "Não poderão participar deste Pregão"
+    "Podem participar empresas interessadas estabelecidas no País que satisfaçam as condições do edital, que desempenhem atividade pertinente e compatível com o objeto, previamente credenciadas no SICAF e no site www.comprasgovernamentais.gov.br",
+    "Interessados devem possuir chave de identificação e senha pessoal para acessar o sistema eletrônico",
+    "O licitante responsabiliza‑se pelas transações efetuadas em seu nome e pelos atos de seu representante, excluindo a responsabilidade do provedor do sistema ou do órgão promotor",
+    "O credenciamento implica responsabilidade do licitante e presunção de capacidade técnica para as transações",
+    "Informações complementares sobre credenciamento disponíveis pelo telefone 0800 978 9001 ou no site http://www.comprasnet.gov.br",
+    "Será concedido tratamento favorecido para microempresas, empresas de pequeno porte, cooperativas, agricultor familiar, produtor rural pessoa física e MEI, nos limites da Lei Complementar nº 123/2006",
+    "Não poderão participar empresas que não atendam às condições de participação ou que estejam impedidas por sanções previstas na legislação"
   ],
   "id": "doc_0003"
 }

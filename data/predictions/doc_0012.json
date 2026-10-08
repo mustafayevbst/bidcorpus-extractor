@@ -1,22 +1,27 @@
 {
-  "customer_name": "Agência Espacial Brasileira – AEB",
+  "customer_name": "Agência Espacial Brasileira (AEB)",
   "tender_number": null,
-  "category": "locação de veículo de representação (sedan híbrido/elétrico) com fornecimento de combustível e motorista",
+  "category": "Locação de veículo de representação",
   "deadline": null,
   "requirements": [
-    "Habilitação jurídica",
-    "Regularidade fiscal e trabalhista",
-    "Qualificação econômico‑financeira",
-    "Qualificação técnica",
-    "Apresentação de documentos comprobatórios nos cadastros oficiais (SICAF, CEIS, CNJ, CADICON)"
+    "Consulta aos cadastros: SICAF, CEIS, Cadastro Nacional de Condenações Cíveis, CADICON e Consulta Consolidada de Pessoa Jurídica do TCU",
+    "Apresentação de documentação de habilitação jurídica (ato constitutivo, contrato social, registro na Junta Comercial ou Registro Civil)",
+    "Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ)",
+    "Certidão de regularidade fiscal perante a Fazenda Nacional (RFB e PGFN) e dívida ativa da União",
+    "Prova de regularidade com o FGTS",
+    "Certidão negativa de débitos trabalhistas",
+    "Prova de inscrição no cadastro de contribuintes municipal e regularidade com a Fazenda Municipal",
+    "Certidão negativa de falência, recuperação judicial ou extrajudicial",
+    "Balanço patrimonial e demonstrações contábeis do último exercício social",
+    "Índices de liquidez (LG, SG, LC) superiores a 1",
+    "Comprovação de capital circulante líquido ou capital de giro mínimo de 16,66% do valor da contratação",
+    "Comprovação de patrimônio líquido mínimo de 10% do valor da contratação",
+    "Declaração de que 1/12 do valor total dos contratos firmados não excede o patrimônio líquido",
+    "Atestados de prestação de serviços de locação de veículos por no mínimo 3 anos",
+    "Declaração de inexistência de menores em trabalho noturno, perigoso ou insalubre",
+    "Declaração de inexistência de vínculo de sócios ou prepostos com servidores da contratante",
+    "Para microempreendedor individual: dispensa de inscrição em cadastros estadual/municipal e de balanço patrimonial"
   ],
-  "participation_conditions": [
-    "Não possuir sanção que impeça a participação ou futura contratação",
-    "Estar regular nos cadastros SICAF, CEIS, CNJ e CADICON",
-    "Atualizar informações no SICAF até três dias antes da data de recebimento das propostas",
-    "Apresentar documentos originais quando houver dúvida sobre a integridade digital",
-    "CNPJ/CPF devem ser consistentes entre documentos",
-    "Cumprir os requisitos de habilitação jurídica, fiscal, econômico‑financeira e técnica"
-  ],
+  "participation_conditions": [],
   "id": "doc_0012"
 }

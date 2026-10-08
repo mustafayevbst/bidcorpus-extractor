@@ -1,23 +1,33 @@
 {
-  "customer_name": "PREFEITURA MUNICIPAL DE CURRALINHOS-PI",
+  "customer_name": "Prefeitura Municipal de Curralinhos-PI",
   "tender_number": "002/2013",
-  "category": "Compra de combustíveis e lubrificantes",
+  "category": "Combustíveis e lubrificantes",
   "deadline": "13/05/2013 11:30",
   "requirements": [
-    "Prova de situação regular perante o FGTS",
-    "Certidão Negativa de Débito (CND) do INSS",
+    "Prova de situação regular perante o Fundo de Garantia do Tempo de Serviço (FGTS)",
+    "Certidão Negativa de Débito (CND) expedida pelo INSS",
     "Contrato social e último aditivo",
-    "Prova de regularidade fiscal federal (Certidão Negativa de Dívida Ativa da União e Certidão de Quitação de Tributos)",
-    "Prova de regularidade fiscal estadual (Certidão Negativa de Dívida Ativa do Estado)",
-    "Prova de regularidade fiscal municipal (Certidão Negativa de Dívida Ativa do Município)",
+    "Prova de regularidade com a Fazenda Federal (Certidão Negativa de Dívida Ativa da União e Certidão de Quitação de Tributos)",
+    "Prova de regularidade com a Fazenda Estadual (Certidão Negativa de Dívida Ativa do Estado e Certidão de Negativa de Débitos)",
+    "Prova de regularidade com a Fazenda Municipal (Certidão Negativa de Dívida Ativa do Município e Certidão de Negativa de Débitos)",
     "Cópia atualizada do CNPJ",
     "Certidão de Registro e Quitação da firma na entidade profissional competente",
     "Capital Social não inferior a 10% do valor global da licitação",
-    "Declarações exigidas (responsável pela empresa, inexistência de inidoneidade, veracidade dos documentos, compromisso de entrega, etc.)"
+    "Declaração expressa de concordância com os termos da Lei 8.666/93 e do edital",
+    "Declaração de inexistência de processo de inidoneidade ou impedimento para participar de licitações",
+    "Declaração de veracidade dos documentos de habilitação",
+    "Declaração de entrega dos gêneros alimentícios objeto da licitação (se vencedor)",
+    "Apresentação de procuração e credenciais dos representantes",
+    "Procuração com reconhecimento de firma, especificando poderes conferidos",
+    "Documento de identidade do representante legal",
+    "Presença do titular, sócio, dirigente ou representante legal da empresa",
+    "Proibição de participação de retardatários após entrega de credenciais",
+    "Documentos podem ser apresentados em original ou cópia autenticada",
+    "Declarações devem ser apresentadas em original com reconhecimento de firma"
   ],
   "participation_conditions": [
     "Empresas cadastradas previamente que apresentarem toda a documentação exigida nos subitens 5.1.1 a 5.1.5 e 5.1.8, válidas na data da abertura do procedimento",
-    "Documentos para habilitação e proposta devem ser apresentados em envelopes distintos"
+    "Documentos de habilitação e proposta devem ser apresentados em envelopes distintos"
   ],
   "id": "doc_0000"
 }

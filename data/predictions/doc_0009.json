@@ -1,7 +1,7 @@
 {
   "customer_name": null,
   "tender_number": null,
-  "category": null,
+  "category": "Ares-condicionados",
   "deadline": null,
   "requirements": [],
   "participation_conditions": [],

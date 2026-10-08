@@ -1,31 +1,27 @@
 {
   "customer_name": "31º Batalhão de Infantaria Motorizado",
   "tender_number": null,
-  "category": "Registro de Preços",
+  "category": "Combustíveis",
   "deadline": null,
   "requirements": [
-    "Inscrição e regularidade no Sistema de Cadastro Unificado de Fornecedores (SICAF)",
-    "Ausência de sanções nos cadastros SICAF, CEIS, CNJ e TCU",
-    "Documentação de habilitação jurídica conforme tipo societário (registro público, ato constitutivo, contrato social, etc.)",
-    "Registro na Agência Nacional de Petróleo (Portaria nº 41/2013)",
-    "Certificado de Regularidade do IBAMA ou declaração equivalente",
-    "Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ)",
-    "Certidão conjunta de regularidade com a Fazenda Nacional",
-    "Prova de regularidade com a Seguridade Social (INSS)",
-    "Prova de regularidade com o FGTS",
-    "Certidão negativa ou positiva com efeito de negativa de débitos trabalhistas",
-    "Prova de inscrição e regularidade com a Fazenda Estadual",
-    "Declaração de isenção de tributos estaduais, se aplicável",
-    "Documentação enviada via fax ou e‑mail dentro do prazo estabelecido"
+    "Consulta aos cadastros SICAF, CEIS, Cadastro Nacional de Condenações Cíveis e Lista de Inidôneos do TCU; sanções que impeçam a participação resultam em inabilitação",
+    "Apresentação de documentação de habilitação jurídica conforme tipo societário (registro público de empresas, ato constitutivo, contrato social, registro civil, certidão de microempresa ou empresa de pequeno porte, decreto de autorização para estrangeiros)",
+    "Registro na Agência Nacional de Petróleo conforme Portaria nº 41/2013",
+    "Comprovante de registro no Cadastro Técnico Federal e Certificado de Regularidade do IBAMA ou declaração equivalente",
+    "Prova de inscrição no CNPJ (Cadastro Nacional de Pessoas Jurídicas)",
+    "Certidão conjunta da Receita Federal e Procuradoria‑Geral da Fazenda Nacional comprovando regularidade fiscal federal",
+    "Comprovante de regularidade com a Seguridade Social (INSS)",
+    "Comprovante de regularidade com o FGTS",
+    "Certidão negativa ou positiva com efeito de negativa de débitos perante a Justiça do Trabalho",
+    "Inscrição no cadastro de contribuintes estadual e comprovação de regularidade com a Fazenda Estadual ou declaração de isenção",
+    "Documentação enviada via fax ou e‑mail no prazo de 2 horas após solicitação, com posterior envio de original autenticado",
+    "Apresentação de documentos sem divergência de CNPJ, salvo exceções legais"
   ],
   "participation_conditions": [
-    "Não possuir sanção que impeça a participação ou contratação com o Poder Público",
-    "Cumprir o nível de credenciamento exigido no SICAF para Pregão Eletrônico",
-    "Apresentar toda a documentação exigida dentro dos prazos (2 horas, 2 dias, 5 dias úteis)",
-    "Não apresentar documentos com CNPJ diferentes dos permitidos",
-    "Em caso de microempresa, empresa de pequeno porte ou cooperativa, regularizar eventuais restrições fiscais no prazo de 5 dias úteis",
-    "Possibilidade de suspensão da sessão para análise de documentos, com nova data e horário comunicados",
-    "Inabilitação por não comprovar habilitação ou por documentos em desacordo com o edital"
+    "Não pode possuir sanção que impeça a participação ou contratação com o Poder Público, conforme consulta aos cadastros SICAF, CEIS, CNIS e TCU",
+    "Deve estar credenciado no SICAF com nível básico de registro cadastral para participar do Pregão Eletrônico",
+    "É vedada a participação de empresas com CNPJ divergente nos documentos apresentados",
+    "Microempresas, empresas de pequeno porte ou cooperativas com restrição fiscal deverão regularizar a situação no prazo estabelecido ou serão inabilitadas"
   ],
   "id": "doc_0005"
 }
