@@ -1,0 +1,14 @@
+Скалярные поля (accuracy):
+
+  field                        exact    fuzzy
+  customer_name                 0.67     0.87
+  tender_number                 0.93     1.00
+  category                      0.27     0.67
+  deadline                      1.00     1.00
+
+Списки (macro-усреднение):
+
+  field                          P      R     F1        P      R     F1
+                                         exact                fuzzy
+  requirements                0.30   0.30   0.30     0.59   0.62   0.60
+  participation_conditions    0.30   0.30   0.30     0.51   0.57   0.52
